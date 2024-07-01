@@ -1,5 +1,6 @@
-package com.example.TUTORIAL;
+package com.example.TUTORIAL.school;
 
+import com.example.TUTORIAL.student.Student;
 import com.fasterxml.jackson.annotation.JsonManagedReference;
 import jakarta.persistence.*;
 import java.util.List;

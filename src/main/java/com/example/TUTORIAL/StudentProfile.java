@@ -1,6 +1,8 @@
 package com.example.TUTORIAL;
 import jakarta.persistence.*;
 
+import com.example.TUTORIAL.student.Student;
+
 
 @Entity
 public class StudentProfile {
